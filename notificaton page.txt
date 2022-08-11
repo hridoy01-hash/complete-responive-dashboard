@@ -1,0 +1,122 @@
+<!-- dashboard notification page -->
+                <div class="s0101_dashboard_notification_content_wrapper">
+
+                    <!-- back btn wrapper -->
+                    <div class="s0101_back_btn_wrapper">
+                        <button class="s0101_btn_inner_content">
+                            <span class="s0101_back_btn_arrow">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="3" height="5.842" viewBox="0 0 3 5.842">
+                                    <path id="arrow"
+                                        d="M9.475,7.061l1.92-1.919a.418.418,0,0,1,.59.592L10.066,7.653a.418.418,0,0,0,0,.592l1.919,1.919a.418.418,0,0,1-.592.592L9.475,8.836A1.255,1.255,0,0,1,9.475,7.061Z"
+                                        transform="translate(-9.107 -5.035)" fill="#222f3e" />
+                                </svg>
+                            </span>
+                            <span class="s0101_btn_text">Back</span>
+                        </button>
+                    </div>
+
+                    <!-- notification inner content -->
+                    <div class="s0101_notification_page_inner_content_wrapper">
+                        <!-- page header -->
+                        <div class="s0101_notification_page_header">
+                            <span class="s0101_page_header_text">
+                                Notification
+                            </span> <br>
+                            <span class="s0101_page_header_description">
+                                Select the channel and options to send notifications to your customer
+                            </span>
+                        </div>
+
+                        <!-- check box -->
+                        <div class="s0101_check_box_wrapper">
+                            <div class="s0101_check_box_container">
+                                <!--  <input type="checkbox" id="email" name="email" value="Bike">
+                                <label for="email" class="level_text"> Email</label> -->
+
+                                <label class="container"><span class="level_text">Email</span>
+                                    <input type="checkbox">
+                                    <span class="checkmark level_text"></span>
+                                </label>
+
+                            </div>
+                            <div class="s0101_check_box_container">
+                                <!--  <input type="checkbox" id="SMS" name="SMS" value="Car">
+                                <label for="SMS" class="level_text"> SMS</label><br> -->
+                                <label class="container"> <span class="level_text">SMS</span>
+                                    <input type="checkbox">
+                                    <span class="checkmark level_text"></span>
+                                </label>
+                            </div>
+
+                        </div>
+
+                        <!-- email box -->
+                        <div class="s0101_select_option_field_wrapper">
+                            <select name="communicationEmail" id="0.802869199863641" class="s0101_select_option_field">
+                                <option value="no-reply@soppiya.com" class="s0101_chose_option">Select Email</option>
+                                <option value="no-reply@soppiya.com" class="s0101_chose_option">noreply@soppiya.com
+                                </option>
+                            </select>
+                        </div>
+
+                        <!-- option on off button -->
+                        <div class="s0101_notification_switch_wrapper">
+
+                            <div class="s0101_notification_item_inner_content">
+                                <span class="s0101_notification_item_inner_text">Signup OTP</span>
+                                <label class="s0101_notification_item_switch_btn switch">
+                                    <input type="checkbox" checked>
+                                    <span class="slider round"></span>
+                                </label>
+                            </div>
+                            <div class="s0101_notification_item_inner_content">
+                                <span class="s0101_notification_item_inner_text">Order Approved</span>
+                                <label class="s0101_notification_item_switch_btn switch">
+                                    <input type="checkbox" checked>
+                                    <span class="slider round"></span>
+                                </label>
+                            </div>
+                            <div class="s0101_notification_item_inner_content">
+                                <span class="s0101_notification_item_inner_text">Order Shipment</span>
+                                <label class="s0101_notification_item_switch_btn switch">
+                                    <input type="checkbox" checked>
+                                    <span class="slider round"></span>
+                                </label>
+                            </div>
+                            <div class="s0101_notification_item_inner_content">
+                                <span class="s0101_notification_item_inner_text">Forgot OTP</span>
+                                <label class="s0101_notification_item_switch_btn switch">
+                                    <input type="checkbox" checked>
+                                    <span class="slider round"></span>
+                                </label>
+                            </div>
+                            <div class="s0101_notification_item_inner_content">
+                                <span class="s0101_notification_item_inner_text">Order Cancelation</span>
+                                <label class="s0101_notification_item_switch_btn switch">
+                                    <input type="checkbox" checked>
+                                    <span class="slider round"></span>
+                                </label>
+                            </div>
+                            <div class="s0101_notification_item_inner_content">
+                                <span class="s0101_notification_item_inner_text">Order Delivery</span>
+                                <label class="s0101_notification_item_switch_btn switch">
+                                    <input type="checkbox" checked>
+                                    <span class="slider round"></span>
+                                </label>
+                            </div>
+                            <div class="s0101_notification_item_inner_content">
+                                <span class="s0101_notification_item_inner_text">Order Placed</span>
+                                <label class="s0101_notification_item_switch_btn switch">
+                                    <input type="checkbox" checked>
+                                    <span class="slider round"></span>
+                                </label>
+                            </div>
+
+                        </div>
+
+                        <!-- update button -->
+                        <div class="s0101_update_btn_wrapper">
+                            <button class="s0101_btn_content">Update</button>
+                        </div>
+                    </div>
+                </div>

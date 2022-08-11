@@ -1,0 +1,63 @@
+ <!-- dashboard mobile menu -->
+        <div class="s0101_dashboard_mobile_menu_wrapper">
+            <ul class="s0101_mobile_menu_list">
+                <li class="s0101_footer_menu_item">
+                    <span class="s0101_footer_men_icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16.511" viewBox="0 0 18 16.511">
+                            <g id="Analytics" transform="translate(-30 -137)">
+                                <path id="Icon"
+                                    d="M17.922,8.822A9,9,0,0,0,0,9.994a8.907,8.907,0,0,0,2.819,6.533,3.629,3.629,0,0,0,2.515.966h7.324a3.745,3.745,0,0,0,2.631-1.072,8.956,8.956,0,0,0,2.633-7.6ZM5.6,14.989a.75.75,0,0,1-1.059.067A6.744,6.744,0,0,1,9,3.245a6.824,6.824,0,0,1,1.686.212.75.75,0,0,1-.375,1.453A5.245,5.245,0,0,0,5.536,13.93.75.75,0,0,1,5.6,14.989Zm3.4-3.5A1.5,1.5,0,1,1,9.382,8.55l2.835-2.835a.75.75,0,1,1,1.06,1.06L10.443,9.61A1.482,1.482,0,0,1,9,11.494Zm4.454,3.563a.75.75,0,0,1-.991-1.125,5.243,5.243,0,0,0,1.62-5.249.75.75,0,0,1,1.453-.375,6.819,6.819,0,0,1,.212,1.686A6.749,6.749,0,0,1,13.453,15.056Z"
+                                    transform="translate(30 136.018)" fill="#222f3e" />
+                            </g>
+                        </svg>
+                    </span>
+                </li>
+                <li class="s0101_footer_menu_item s0101_active_menu_icon">
+                    <span class="s0101_footer_men_icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="17.558" height="18" viewBox="0 0 17.558 18">
+                            <g id="Products" transform="translate(-30 -287)">
+                                <path id="icon"
+                                    d="M11.25,16.5a1.5,1.5,0,1,1,1.5,1.5A1.5,1.5,0,0,1,11.25,16.5Zm-7.5,0A1.5,1.5,0,1,1,5.25,18,1.5,1.5,0,0,1,3.75,16.5Zm2.668-2.25a3.75,3.75,0,0,1-3.725-3.312L1.661,2.162A.75.75,0,0,0,.917,1.5H.75A.75.75,0,0,1,.75,0H.917A2.251,2.251,0,0,1,3.15,1.987l.031.263H15.307A2.25,2.25,0,0,1,17.522,4.9l-.589,3.266a3.751,3.751,0,0,1-3.691,3.085H4.3a2.251,2.251,0,0,0,2.115,1.5H14.25a.75.75,0,0,1,0,1.5Z"
+                                    transform="translate(30 287)" fill="#222f3e" />
+                            </g>
+                        </svg>
+                    </span>
+                </li>
+                <li class="s0101_footer_menu_item">
+                    <span class="s0101_footer_men_icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="17.259" height="18" viewBox="0 0 17.259 18">
+                            <g id="Orders" transform="translate(-31 -337)">
+                                <path id="icon"
+                                    d="M11.25,16.5a1.5,1.5,0,1,1,1.5,1.5A1.5,1.5,0,0,1,11.25,16.5Zm-7.5,0A1.5,1.5,0,1,1,5.25,18,1.5,1.5,0,0,1,3.75,16.5Zm2.668-2.25a3.75,3.75,0,0,1-3.725-3.312L1.661,2.162A.75.75,0,0,0,.917,1.5H.75A.75.75,0,1,1,.75,0H.917A2.251,2.251,0,0,1,3.15,1.986l.031.264H9.606a4.5,4.5,0,0,0,7.505,4.926l-.178.989a3.751,3.751,0,0,1-3.691,3.085H4.3a2.249,2.249,0,0,0,2.116,1.5H14.25a.75.75,0,0,1,0,1.5Zm6.415-7.09h-.025a1.4,1.4,0,0,1-1.008-.45l-.988-1.057a.751.751,0,0,1,1.1-1.025l.925.993,3.141-3.145a.753.753,0,1,1,1.063,1.066l-3.2,3.2a1.4,1.4,0,0,1-1,.415Z"
+                                    transform="translate(31 337)" fill="#222f3e" />
+                            </g>
+                        </svg>
+                    </span>
+                </li>
+                <li class="s0101_footer_menu_item">
+                    <span class="s0101_footer_men_icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="13.5" height="18" viewBox="0 0 13.5 18">
+                            <g id="Stock" transform="translate(-32 -487)">
+                                <path id="icon"
+                                    d="M15,2.266V.75a.75.75,0,1,0-1.5,0v.825a3.75,3.75,0,0,0-.75-.075H12V.75a.75.75,0,1,0-1.5,0V1.5H9V.75a.75.75,0,0,0-1.5,0V1.5H6.75A3.75,3.75,0,0,0,6,1.575V.75a.75.75,0,1,0-1.5,0V2.266A3.734,3.734,0,0,0,3,5.25v9A3.755,3.755,0,0,0,6.75,18h6a3.755,3.755,0,0,0,3.75-3.75v-9A3.734,3.734,0,0,0,15,2.266ZM9.75,12.75h-3a.75.75,0,1,1,0-1.5h3a.75.75,0,1,1,0,1.5Zm3-3h-6a.75.75,0,1,1,0-1.5h6a.75.75,0,1,1,0,1.5Zm0-3h-6a.75.75,0,1,1,0-1.5h6a.75.75,0,0,1,0,1.5Z"
+                                    transform="translate(29 487)" fill="#222f3e" />
+                            </g>
+                        </svg>
+                    </span>
+                </li>
+                <li class="s0101_footer_menu_item">
+                    <span class="s0101_footer_men_icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="15" viewBox="0 0 18 15">
+                            <g id="Menu" transform="translate(0 -710)">
+                                <rect id="Shape_3" data-name="Shape 3" width="16" height="2" rx="1"
+                                    transform="translate(2 723)" fill="#222f3e" />
+                                <rect id="Shape_2" data-name="Shape 2" width="11" height="2" rx="1"
+                                    transform="translate(7 716.5)" fill="#222f3e" />
+                                <rect id="Shape_1" data-name="Shape 1" width="18" height="2" rx="1"
+                                    transform="translate(0 710)" fill="#222f3e" />
+                            </g>
+                        </svg>
+                    </span>
+                </li>
+            </ul>
+        </div>
